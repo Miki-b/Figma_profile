@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section>
+        <nav>
+            <h3>My Logo</h3>
+
+        </nav>
+        <h1>Hey There I'm Alex.</h1>
+        <p>I'm Software Developer</p>
+        <p> I can help you build a product , feature or website Look through some of my work and experience! If you like what you see and have a project you need coded, 
+            don’t hesitate to contact me.</p>
+        <div>
+            <img src="GitHub.jpg">
+            <img src="Linkedin.jpg">
+            <img src="Twitter.jpg">
+            <img src="Angelist.jpg">
+            <img src="Medium.jpg">
+        </div>
+
+    </section>
+</body>
+</html>
